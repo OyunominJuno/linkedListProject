@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Paragraph
+comment0.text=\r\n\ Paragraph\ class\ that\ takes\ care\ of\ the\ literal\ string\ and\ style\ of\ the\ text\r\n\r\n\ @author\ \ Oyunomin\ Munkhkhurel\r\n\ @version\ 02/10/2018\r\n
+comment1.params=text
+comment1.target=Paragraph(java.lang.String)
+comment1.text=\r\n\ Default\ constructor\ for\ paragraph\r\n\ \r\n\ @param\ String\ text\ literal\ text\ of\ the\ paragraph\r\n
+comment2.params=text\ style
+comment2.target=Paragraph(java.lang.String,\ Paragraph.Style)
+comment2.text=\r\n\ Full\ constructor\ for\ paragraph\ \r\n\ \r\n\ @param\ String\ text\ literal\ text\ of\ the\ paragraph\r\n\ @param\ Style\ style\ design\ of\ the\ text\r\n\ \ \ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\r\n\ Retrives\ the\ text\ of\ the\ paragraph\r\n\ \r\n\ @return\ text\ of\ the\ paragraph\r\n
+comment4.params=
+comment4.target=Paragraph.Style\ getStyle()
+comment4.text=\r\n\ Retrives\ the\ style\ of\ the\ paragraph\r\n\ \r\n\ @return\ style\ of\ the\ paragraph\r\n
+comment5.params=text
+comment5.target=void\ setText(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ text\ of\ the\ paragraph\r\n\ \r\n\ @param\ String\ text\ of\ the\ paragraph\r\n\ @throws\ IllegalArgumentException\ if\ text\ is\ null\r\n
+comment6.params=style
+comment6.target=void\ setStyle(Paragraph.Style)
+comment6.text=\r\n\ Sets\ the\ style\ of\ the\ paragraph\r\n\ \r\n\ @param\ Style\ style\ of\ the\ paragraph\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Retrieves\ the\ verbal\ state\ of\ the\ paragraph\r\n\ \r\n\ @return\ verbal\ state\ of\ the\ paragraph\r\n
+numComments=8
